@@ -1,27 +1,27 @@
-/**
- * @name MyTheme
- * @author YourName
- * @description Describe the aesthetic. Maybe a support server link.
- * @version 0.0.1
- */
+/*META
+  name: MindSpike Theme
+  author: YourName
+  version: 1.0.0
+  description: A custom BetterDiscord theme inspired by MindSpike aesthetics.
+META*/
 
 @font-face {
     font-family: "spacemono";
     font-weight: normal;
-    src: url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap") format("woff2");
+    src: url("https://yourhost.com/fonts/SpaceMono-Regular.woff2") format("woff2");
   }
   @font-face {
     font-family: "spacemono";
     font-weight: bold;
-    src: url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap") format("woff2");
+    src: url("https://yourhost.com/fonts/SpaceMono-Bold.woff2") format("woff2");
   }
   @font-face {
     font-family: "barcodetext";
-    src: url("https://fonts.googleapis.com/css2?family=Libre+Barcode+128+Text&display=swap") format("woff2");
+    src: url("https://yourhost.com/fonts/LibreBarcode128Text-Regular.woff2") format("woff2");
   }
   @font-face {
     font-family: "bstrd";
-    src: url("https://dl.dafont.com/dl/?f=newspaper_cutout_white_on_black") format('truetype');
+    src: url("https://yourhost.com/fonts/NewspaperCutoutWhiteOnBlac-Rg.ttf") format('truetype');
   }
   
   :root {
