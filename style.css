@@ -1,19 +1,19 @@
-/*META
-  name: MindSpike Theme
-  author: YourName
-  version: 1.0.0
-  description: A custom BetterDiscord theme inspired by MindSpike aesthetics.
-META*/
+/**
+ * @name AaronG
+ * @author AaroNG
+ * @description Mindspike Corru Observer Theme 
+ * @version 0.0.1
+ */
 
 @font-face {
     font-family: "spacemono";
     font-weight: normal;
-    src: url("https://yourhost.com/fonts/SpaceMono-Regular.woff2") format("woff2");
+    src: url("https://github.com/aarong11/mindspike-betterdiscord/raw/refs/heads/main/fonts/LibreBarcode128Text-Regular.ttf") format("truetype");
   }
   @font-face {
     font-family: "spacemono";
     font-weight: bold;
-    src: url("https://yourhost.com/fonts/SpaceMono-Bold.woff2") format("woff2");
+    src: url("https://yourhost.com/fonts/SpaceMono-Bold.woff2") format("truetype");
   }
   @font-face {
     font-family: "barcodetext";
