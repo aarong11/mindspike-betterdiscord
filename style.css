@@ -13,7 +13,7 @@
   @font-face {
     font-family: "spacemono";
     font-weight: bold;
-    src: url("https://yourhost.com/fonts/SpaceMono-Bold.woff2") format("truetype");
+    src: url("https://github.com/aarong11/mindspike-betterdiscord/raw/refs/heads/main/fonts/SpaceMono-Bold.ttf") format("truetype");
   }
   @font-face {
     font-family: "barcodetext";
