@@ -8,7 +8,7 @@
 @font-face {
     font-family: "spacemono";
     font-weight: normal;
-    src: url("https://github.com/aarong11/mindspike-betterdiscord/raw/refs/heads/main/fonts/LibreBarcode128Text-Regular.ttf") format("truetype");
+    src: url("https://github.com/aarong11/mindspike-betterdiscord/raw/refs/heads/main/fonts/SpaceMono-Regular.ttf") format("truetype");
   }
   @font-face {
     font-family: "spacemono";
@@ -17,11 +17,11 @@
   }
   @font-face {
     font-family: "barcodetext";
-    src: url("https://yourhost.com/fonts/LibreBarcode128Text-Regular.woff2") format("woff2");
+    src: url("https://github.com/aarong11/mindspike-betterdiscord/raw/refs/heads/main/fonts/LibreBarcode128Text-Regular.ttf") format("truetype");
   }
   @font-face {
     font-family: "bstrd";
-    src: url("https://yourhost.com/fonts/NewspaperCutoutWhiteOnBlac-Rg.ttf") format('truetype');
+    src: url("https://github.com/aarong11/mindspike-betterdiscord/raw/refs/heads/main/fonts/NewspaperCutoutWhiteOnBlac-Rg.ttf") format('truetype');
   }
   
   :root {
